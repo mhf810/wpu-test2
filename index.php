@@ -9,5 +9,9 @@
 <body>
     <h1>Git Lokal</h1>
     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorum consequuntur placeat corporis tempore dolorem eligendi non excepturi dolores, sint sequi officia. Quam porro, ab molestiae harum rerum eaque accusantium totam.</p>
+    <ul>
+    <li>satu</li>
+    <li>dua</li>
+    </ul>
 </body>
 </html>
